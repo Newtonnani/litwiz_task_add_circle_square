@@ -2,8 +2,11 @@
 
 RUN THIS COMMAND IN TERMINAL
 
-. env/bin/activate   # activating virtual environment
-python main.py       # and then run main.py with python prefix
+# activating virtual environment
+. env/bin/activate
+
+# and then run main.py with python prefix
+python main.py
 
 
 
